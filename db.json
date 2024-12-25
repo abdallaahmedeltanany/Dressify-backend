@@ -1,0 +1,416 @@
+{
+  "users": [
+    {
+      "email": "abdallaeltanany1@gmail.com",
+      "password": "$2a$10$BjibAEMKOI02S1npjCx8Y.naJTpRggYgPbLL4wfp4JUnDvCiivnTi",
+      "firstName": "abdullah",
+      "lastName": "ahmed",
+      "id": 1
+    },
+    {
+      "email": "abdallaeltanany2@gmail.com",
+      "password": "$2a$10$WHxgF6Ti/Bf43gyapkTGBurIRZNNjvVDS7UzpgiGmwSIPn3SWLXZm",
+      "firstName": "abdullah",
+      "lastName": "ahmed",
+      "id": 2
+    },
+    {
+      "email": "anasetanany1@gmail.com",
+      "password": "$2a$10$RGijzN6TEfkCzoeEKuFfRO.mOTOw9eT5PhVHXWsTnMTcAwz4v74tO",
+      "firstName": "anas",
+      "lastName": "ahmed",
+      "id": 3
+    },
+    {
+      "email": "mohamedahmed@gmail.com",
+      "password": "$2a$10$594f67ltNqTgIrJHVFjKye3Rl7Gjougrbz9p8U6WvokD2pTa2U9Ry",
+      "firstName": "mohamed",
+      "lastName": "ahmed",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "men",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": 2,
+      "title": "women",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": 3,
+      "title": "kids",
+      "prefix": "kids",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "baby",
+      "prefix": "baby",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "sport",
+      "prefix": "sport",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Jersey top",
+      "price": 249,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/c8/23/c823f897ff0b5eaca9fd1c4488ba01089fc679c4.jpg?imwidth=396",
+      "max": 4
+    },
+    {
+      "id": 2,
+      "title": "Regular Fit Jersey top",
+      "price": 229,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/97/1d/971dc91141088c252fd72afc267aeba85e12893a.jpg?imwidth=396",
+      "max": 4
+    },
+    {
+      "id": 19,
+      "title": " jacket",
+      "price": 500,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/22/4a/224a416e2645880017e28eb371f54417bece4ee0.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 20,
+      "title": "oversized hoodie",
+      "price": 300,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/6b/44/6b44f200a9d73830e3a7637aa68236c0c9aa36a3.jpg?imwidth=396",
+      "max": 4
+    },
+    {
+      "id": 21,
+      "title": "regular shirt",
+      "price": 150,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/fc/03/fc03b8e7cc5633d9321d18817e53e9aa77eb99c4.jpg?imwidth=396",
+      "max": 7
+    },
+    {
+      "id": 22,
+      "title": "Loose Fit Printed hoodie",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/40/a7/40a732fef90f6ee0712236eb324cdbcd3c473075.jpg?imwidth=820",
+      "max": 6
+    },
+    {
+      "id": 23,
+      "title": "Regular Fit Overshirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/e9/ae/e9aedc4785c415258fb052cd2bba94b7aba7aca2.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 24,
+      "title": "Regular Fit Coated jacket",
+      "price": 500,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/ae/47/ae47ed3dcebd39e1b9a2f417b941046a068f3a83.jpg?imwidth=820",
+      "max": 4
+    },
+    {
+      "id": 25,
+      "title": "Regular Fit Coat",
+      "price": 700,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/9e/c6/9ec6766610721cf1e7a430cc3933bf39cb25d098.jpg?imwidth=820",
+      "max": 4
+    },
+    {
+      "id": 26,
+      "title": "Regular Fit Shirt",
+      "price": 100,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/90/05/90053e533ce70f9b62b1d6ceb3b94f9f8c6e0460.jpg?imwidth=820 ",
+      "max": 4
+    },
+    {
+      "id": 27,
+      "title": "Relaxed Fit Jacket",
+      "price": 500,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/hm/ef/b7/efb7eebb1ea993fb055e6c5ef93649f7c1583c24.jpg?imwidth=2160",
+      "max": 2
+    },
+    {
+      "id": 28,
+      "title": "Cotton polo shirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://image.hm.com/assets/001/4f/b6/4fb6d5c052d6f414aae6d3b9cd604279b2c6cbca.jpg?imwidth=396",
+      "max": 3
+    },
+    {
+      "id": 4,
+      "title": "Cotton t-shirt",
+      "price": 100,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/23/6f/236fffa984864771e106df2670c857a7b800080b.jpg?imwidth=396",
+      "max": 2
+    },
+    {
+      "id": 29,
+      "title": "Oversized polo-neck jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/ea/77/ea772834ac67d91b7fa12a482cf34569cef50625.jpg?imwidth=2160",
+      "max": 3
+    },
+    {
+      "id": 30,
+      "title": "Oversized polo-neck jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/9d/3d/9d3ded00bc5eac8645467db4a0587cfd1ef90499.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 31,
+      "title": "Oversized polo-neck jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/cb/71/cb71895f73bbcb38931a97c2e100309ab4248572.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 32,
+      "title": "curved-hem jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/03/94/0394397e9e1db1070cf54dffe18b677e702440eb.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 33,
+      "title": "Oversized curved-hem jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/ea/0b/ea0b2c17b2ab0e42d28054fae1db1ce9aefddd3d.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 34,
+      "title": " curved-hem jumper",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/4d/f9/4df90a364916f00cfb51f60e0fa4364eb5a90e5b.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 35,
+      "title": "Loose-fit cardigan",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/d0/2d/d02d4f21db8193c1bb5342fb85a8ccb602c62e56.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 36,
+      "title": "Knitted cardigan",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/a0/1f/a01f9eb039b533607ab322a4ff777503d14dcaff.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 37,
+      "title": "Knitted cardigan",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/60/7b/607b808d212f92d5f55ad2a9dd4c126c962cee89.jpg?imwidth=820",
+      "max": 3
+    },
+    {
+      "id": 38,
+      "title": "Knitted cardigan",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/2b/1e/2b1eec8459017dcdd0aa7d785fd93d42af34d7e5.jpg?imwidth=396",
+      "max": 3
+    },
+    {
+      "id": 39,
+      "title": "Sweatshirt shorts",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://image.hm.com/assets/hm/f2/b2/f2b214257ee0cc215d4f384ee444c0224cea44a9.jpg?imwidth=396",
+      "max": 3
+    },
+    {
+      "id": 40,
+      "title": "Long puffer jacket",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/d2/b2/d2b2d63b79e46e5d2927f3def16826967a44237c.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 41,
+      "title": "Cotton flannel pyjamas",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/0b/55/0b552dfec477b2b3518068957a7f472ad5ff0072.jpg?imwidth=2160",
+      "max": 2
+    },
+    {
+      "id": 42,
+      "title": "3-pack sweatshirts",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/6a/a6/6aa66d492c195966157a4767ce5b3cdfbcfeda90.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 43,
+      "title": "Hoodie",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/25/21/25211be6629e88e185c3d3425ee3109713bea5c8.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 44,
+      "title": "Hoodie",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/c1/cf/c1cfe682a63f511a89b90db7e7f3bc33617a4d29.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 45,
+      "title": "2-piece sweatshirt and skirt set",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/23/4c/234ca18029800fde392fc7bfe49f6b0f87047172.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 46,
+      "title": "Waffled jersey hoodie",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/e2/d5/e2d5fce3a5b5791c06f00d65f9c26718f5d9a487.jpg?imwidth=396",
+      "max": 2
+    },
+    {
+      "id": 47,
+      "title": "2-pack track pants in DryMove™",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://image.hm.com/assets/hm/b3/61/b36176f72444505da6312ac3ce6e53a4b2d71374.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 9,
+      "title": "Pile all-in-one suit with ears",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://image.hm.com/assets/hm/f1/9d/f19d294f4f62870d10610098999d522fcf285a78.jpg?imwidth=820",
+      "max": 2
+    },
+    {
+      "id": 17,
+      "title": "Regular Fit football shirt",
+      "price": 449,
+      "cat_prefix": "sport",
+      "img": "https://image.hm.com/assets/hm/20/17/2017adbf199aa1d1f0f6d8311ff85982733cb58b.jpg?imwidth=820",
+      "max": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": 2,
+      "productId": 1,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "productId": 2,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "productId": 19,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "productId": 1,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "productId": 22,
+      "id": 14
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 1,
+          "title": "Jersey top",
+          "price": 249,
+          "img": "https://image.hm.com/assets/hm/c8/23/c823f897ff0b5eaca9fd1c4488ba01089fc679c4.jpg?imwidth=396",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "price": 229,
+          "img": "https://image.hm.com/assets/hm/97/1d/971dc91141088c252fd72afc267aeba85e12893a.jpg?imwidth=396",
+          "quantity": 1
+        },
+        {
+          "id": 19,
+          "title": " jacket",
+          "price": 500,
+          "img": "https://image.hm.com/assets/hm/22/4a/224a416e2645880017e28eb371f54417bece4ee0.jpg?imwidth=820",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 978,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "price": 229,
+          "img": "https://image.hm.com/assets/hm/97/1d/971dc91141088c252fd72afc267aeba85e12893a.jpg?imwidth=396",
+          "quantity": 1
+        },
+        {
+          "id": 19,
+          "title": " jacket",
+          "price": 500,
+          "img": "https://image.hm.com/assets/hm/22/4a/224a416e2645880017e28eb371f54417bece4ee0.jpg?imwidth=820",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 729,
+      "id": 2
+    }
+  ]
+}
